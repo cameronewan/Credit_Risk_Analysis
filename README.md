@@ -5,7 +5,7 @@ The purpose of this analysis was to train and evaluate the data in order to dete
 ## Results:
 - BalancedRandomForestClassifier Acuracy: 0.50 Average Precision: 0.99 Average Recall: 0.87
 <img width="589" alt="Screen Shot 2021-06-13 at 8 07 29 PM" src="https://user-images.githubusercontent.com/75695931/121825959-41b38c00-cc83-11eb-950d-f3f72bfe6933.png">
-- 
+- SMOTE Acuracy: 0.63 Average Precision: 0.99 Average Recall: 0.67
 <img width="614" alt="Screen Shot 2021-06-13 at 8 07 18 PM" src="https://user-images.githubusercontent.com/75695931/121825966-49733080-cc83-11eb-8763-03cdafc72d7b.png">
 
 <img width="614" alt="Screen Shot 2021-06-13 at 8 07 13 PM" src="https://user-images.githubusercontent.com/75695931/121825968-4d06b780-cc83-11eb-8ae5-319f654d2197.png">
