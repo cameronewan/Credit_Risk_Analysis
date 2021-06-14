@@ -18,7 +18,5 @@ The purpose of this analysis was to train and evaluate the data in order to dete
 
 
 
-Summary:
-
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+## Summary:
+The accuracy of the data essentially tells us if we can trust the information we are getting or not, and it would appear that we do not have very accurate data. with most results ranging from between .52-.70 we can see that our data may not be the most accurate and some loans might be mislabled as hihg or low risk. Our data is very precise at first glance by looking at the averages, but when we take a closer look in particular at the easyensembleclassifier that the model was most precise when it came to low risk loans and not so much high risk. While none of these are great options it would be best to use the precision model because it will result in more low-risk loans being granted which in the long run will be the safest option. 
